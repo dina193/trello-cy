@@ -2,7 +2,7 @@
     "emailInput": "[id='signupEmail']",
     "passwordInput": "[id='signupPassword']",
     "checkboxEmail": "[class='welcomeEmail'] input",
-    "signupButton": "[class='LoginModule_buttons'] > button",
+    "signUpButton": "[class='LoginModule_buttons'] > button",
     "closeButton": "[class='LoginModule'] [class='Cancel']",
-    "goToLogin": "[class='LoginModule_logSignSwitch'] > a"
+    "loginButton": "[class='LoginModule_logSignSwitch'] > a"
 }
