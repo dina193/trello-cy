@@ -1,0 +1,8 @@
+{
+    "createBoardDiv": "div[id='new-board']",
+    "createBoardInput": "[id='new-board'] > input",
+    "saveButton": "[id='new-board'] button",
+    "closeButton": "[class='board_options'] > svg",
+    "boardCardDiv": "div[class='board_item']",
+    "starBoardSvg": "svg[class='Star']"
+}

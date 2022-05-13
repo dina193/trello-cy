@@ -1,0 +1,13 @@
+{
+    "taskTitleInput": "input[class='Input TaskModule_title']",
+    "addDescriptionP": "p[class='TaskModule_description']",
+    "descriptionInput": "[class='TaskModule'] [class='TextArea']",
+    "saveButton": "[class='TaskModule_options'] > button",
+    "closeButton": "[class='TaskModule_options'] > svg",
+    "dueDateInput": "input[type='date']",
+    "uploadImgField": "div[class='dropzone-custom-content']",
+    "optionsButton": "[class='TaskModule'] [class='options']",
+    "closeTaskSpan": "[class='TaskModule'] span:nth-of-type(1)",
+    "copyTaskPropSpan": "[class='TaskModule'] span:nth-of-type(2)",
+    "deleteTaskSpan": "[class='TaskModule'] [class='delete']"
+}

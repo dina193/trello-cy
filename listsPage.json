@@ -1,0 +1,20 @@
+{
+    "boardTitleInput": "input[class='boardDetail_title']",
+    "boardOptionsButton": "[class='boardDetail_info'] [class='options']",
+    "deleteBoardSpan": "[class='boardDetail_info'] [class='delete']",
+    "copyBoardPropSpan": "[class='boardDetail_info'] span:nth-of-type(2)",
+    "addListH3": "h3[class='CreateList_title']",
+    "addListInput": "input[placeholder='Add a list...']",
+    "saveListButton": "[class='CreateList_options'] > button",
+    "closeListButton": "[class='CreateList_options'] > svg",
+    "listTitleInput": "input[class='Input taskTitle']",
+    "listOptionsButton": "[class='List'] [class='options']",
+    "deleteListSpan": "[class='List'] [class='delete']",
+    "copyListPropSpan": "[class='List'] span:nth-of-type(2)",
+    "addNewTaskH5": "h5[class='List_addTask']",
+    "addTaskInput": "[data-id='newTaskTitle']",
+    "addTaskButton": "[class='List_newTaskOptions'] > button",
+    "closeTaskButton": "[class='List_newTaskOptions'] > svg",
+    "taskCheckbox": "[class='Task'] [type='checkbox']",
+    "taskItemDiv": "div[class='Task']"
+}
